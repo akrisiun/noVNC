@@ -4,9 +4,10 @@ tests/data_*.js
 utils/rebind.so
 utils/websockify
 /node_modules
-/build
+#/build
 /lib
 recordings
 *.swp
 *~
+*-lock.json
 noVNC-*.tgz
